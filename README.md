@@ -26,6 +26,12 @@
 
 ---
 
+## 📊 Meu gráfico de commits (colorido)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlissonKobayashi&theme=tokyonight)
+
+---
+
 ## 🌐 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/alissonkobayashi/)
 - ✉️ Email: alisson.kobayashi@email.com
@@ -39,6 +45,3 @@
 - Buscando estágio em TI para ganhar experiência prática no mercado.  
 
 
-## 📊 Meu gráfico de commits
-
-![Alisson's GitHub Contribution Graph](https://ghchart.rshah.org/AlissonKobayashi)
