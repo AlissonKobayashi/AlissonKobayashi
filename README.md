@@ -4,6 +4,8 @@
 💻 Focado em **Desenvolvimento Web e Mobile**  
 🚀 Atualmente aprendendo **React Native, Flutter, Spring Boot**  
 
+![Banner](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
+
 ---
 
 ## 🔧 Tecnologias que uso
@@ -29,6 +31,24 @@
 
 ---
 
+## 🌟 Projetos em destaque
+### 📱 Aplicativos Mobile
+- **[App de Receitas](https://github.com/AlissonKobayashi/AppReceitas)**  
+  Flutter + json-server  
+  ![Flutter GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+### 💻 Backend
+- **[Sistema de Agendamento](https://github.com/AlissonKobayashi/SistemaAgendamento)**  
+  Java + Spring Boot + JWT  
+  ![Spring GIF](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+
+### 🎮 Jogos
+- **[Jogo Ping Pong](https://github.com/AlissonKobayashi/JogoPingPong)**  
+  JavaScript + HTML Canvas  
+  ![Game GIF](https://media.giphy.com/media/xUPGcdhiQdQ0pUu7jK/giphy.gif)
+
+---
+
 ## 🌐 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
 - ✉️ Email: alisson@email.com
@@ -41,11 +61,4 @@
 - Interessado em **novas tecnologias e boas práticas de programação**.  
 - Buscando estágio em TI para ganhar experiência prática no mercado.  
 
----
-
-## 📌 Projetos em destaque
-- **Sistema de Agendamento de Serviços** – Java + Spring Boot + JWT  
-- **Aplicativo de Receitas** – Flutter + json-server  
-- **Jogo Ping Pong** – JavaScript + HTML Canvas  
-
-
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
