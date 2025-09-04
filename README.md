@@ -10,6 +10,7 @@
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,11 +28,9 @@
 ---
 
 ## 📊 Meu gráfico de commits (colorido)
-![Alisson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlissonKobayashi&show_icons=true&theme=radical)
-
----
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlissonKobayashi&theme=tokyonight)
 
+![Alisson's GitHub Contribution Graph](https://ghchart.rshah.org/AlissonKobayashi)
 
 ---
 
