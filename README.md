@@ -27,8 +27,7 @@
 
 ---
 
-## 📊 Meu gráfico de commits (colorido)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlissonKobayashi&theme=tokyonight)
+## 📊 Meu gráfico de commits
 
 ![Alisson's GitHub Contribution Graph](https://ghchart.rshah.org/AlissonKobayashi)
 
