@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou Alisson Segura Kobayashi!
 
 🎓 Estudante de **Engenharia de Software** – 8º semestre  
+
 💻 Realizando o **Desenvolvimento Mobile** do Projeto Escola de TI
+
 🚀 Atualmente aprendendo **React Native, Expo, Spring Boot**  
 
 ---
